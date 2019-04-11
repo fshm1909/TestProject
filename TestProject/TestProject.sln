@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{00346D6D-9478-414A-AB37-E3A183873F18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net", "Net", "{F72F9A6D-B1AC-45AC-B0D1-A2A83E0E472B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{6555CD1C-C06E-414B-8393-8AF1C658C7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{5451674B-CD53-4EEF-9220-D27A9709FF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00346D6D-9478-414A-AB37-E3A183873F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00346D6D-9478-414A-AB37-E3A183873F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00346D6D-9478-414A-AB37-E3A183873F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00346D6D-9478-414A-AB37-E3A183873F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6555CD1C-C06E-414B-8393-8AF1C658C7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6555CD1C-C06E-414B-8393-8AF1C658C7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6555CD1C-C06E-414B-8393-8AF1C658C7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6555CD1C-C06E-414B-8393-8AF1C658C7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5451674B-CD53-4EEF-9220-D27A9709FF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5451674B-CD53-4EEF-9220-D27A9709FF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5451674B-CD53-4EEF-9220-D27A9709FF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5451674B-CD53-4EEF-9220-D27A9709FF81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6555CD1C-C06E-414B-8393-8AF1C658C7C5} = {F72F9A6D-B1AC-45AC-B0D1-A2A83E0E472B}
+		{5451674B-CD53-4EEF-9220-D27A9709FF81} = {F72F9A6D-B1AC-45AC-B0D1-A2A83E0E472B}
+	EndGlobalSection
+EndGlobal

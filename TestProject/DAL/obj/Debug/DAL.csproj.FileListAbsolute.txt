@@ -1,0 +1,7 @@
+E:\Project\测试场\TestProject\TestProject\DAL\bin\Debug\DAL.dll
+E:\Project\测试场\TestProject\TestProject\DAL\bin\Debug\DAL.pdb
+E:\Project\测试场\TestProject\TestProject\DAL\obj\Debug\DAL.dll
+E:\Project\测试场\TestProject\TestProject\DAL\obj\Debug\DAL.pdb
+E:\Project\测试场\TestProject\TestProject\DAL\bin\Debug\Dapper.dll
+E:\Project\测试场\TestProject\TestProject\DAL\bin\Debug\Dapper.xml
+E:\Project\测试场\TestProject\TestProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

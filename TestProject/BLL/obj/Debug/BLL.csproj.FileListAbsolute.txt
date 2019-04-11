@@ -1,0 +1,4 @@
+E:\Project\测试场\TestProject\TestProject\BLL\bin\Debug\BLL.dll
+E:\Project\测试场\TestProject\TestProject\BLL\bin\Debug\BLL.pdb
+E:\Project\测试场\TestProject\TestProject\BLL\obj\Debug\BLL.dll
+E:\Project\测试场\TestProject\TestProject\BLL\obj\Debug\BLL.pdb
