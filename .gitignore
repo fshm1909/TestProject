@@ -1,5 +1,9 @@
-﻿################################################################################
-# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
-################################################################################
-
-/TestProject
+/TestProject/.vs
+/TestProject/packages
+/TestProject/BLL/obj
+/TestProject/BLL/bin
+/TestProject/DAL/bin
+/TestProject/DAL/obj
+/TestProject/Web/Files
+/TestProject/Web/obj
+/TestProject/Web/bin
