@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Web.Controllers
+namespace Web.Areas.Admin.Controllers
 {
     /// <summary>
     /// 用于路由的测试
@@ -13,8 +13,6 @@ namespace Web.Controllers
     {
         public ActionResult Index()
         {
-            
-
             return View();
         }
     }

@@ -4,17 +4,15 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Web.Controllers
+namespace Web.Areas.Admin.Controllers
 {
     /// <summary>
-    /// 用于路由的测试
+    /// 默认首页
     /// </summary>
-    public class Test_RouteController : Controller
+    public class HomeController : Controller
     {
         public ActionResult Index()
         {
-            
-
             return View();
         }
     }

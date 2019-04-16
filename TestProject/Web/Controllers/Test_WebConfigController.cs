@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace Web.Controllers
 {
     /// <summary>
-    /// 该控制器用于Web.config的测试
+    /// 用于Web.config的测试
     /// </summary>
     public class Test_WebConfigController : Controller
     {
