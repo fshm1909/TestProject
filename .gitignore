@@ -1,4 +1,9 @@
-packages
-.vs
-bin
-obj
+/TestProject/.vs
+/TestProject/packages
+/TestProject/BLL/obj
+/TestProject/BLL/bin
+/TestProject/DAL/bin
+/TestProject/DAL/obj
+/TestProject/Web/Files
+/TestProject/Web/obj
+/TestProject/Web/bin
